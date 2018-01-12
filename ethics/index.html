@@ -10,7 +10,10 @@
     <div id="result"></div>
     <script>
         $("#result").load("ethics/", function () {
-            alert("Load was performed.");
+            //alert("Load was performed.");
+        });
+        $.get("https://a3qz.github.io", function (my_var) {
+            console.log(my_var);
         });
     </script>
 </body>
