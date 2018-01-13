@@ -9,18 +9,7 @@
     Hello
     <div id="result"></div>
     <script>
-        var xmlString = `<rss version="2.0">
-            < channel >
-            <title>a3qz Ethics Blog</title>
-            <link>https://www.a3qz.me</link>
-            <description>Blog for CSE 40175</description>
-            <item>
-                <title>Sample 1</title>
-                <link>https://a3qz.github.io/ethics/sample.html</link>
-                <description>asdf</description>
-            </item>
-  </channel >
-</rss >`;
+        var xmlString = '<rss version="2.0"></rss>';
         var parser = new DOMParser();
         var xmlDoc = parser.parseFromString(xmlString, "text/xml");
         var node = xmlDoc.createElement("heyHo");
