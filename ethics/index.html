@@ -12,9 +12,10 @@
         //var parser = new DOMParser();
         //var xmlDoc = parser.parseFromString(xmlString, "text/xml");
         //var node = xmlDoc.createElement("heyHo");
-        document.open();
-        document.write(xmlString);
-        document.close();
+        window.open('data:text/xml,' + encodeURIComponent(xmlString),
+            "Test", "width=300,height=300,scrollbars=1,resizable=1");
+
+        
         /*var BASEURL = "https://a3qz.github.io/ethics/"
         $.get("https://a3qz.github.io/ethics/listing.txt", function (my_var) {
             console.log("Did it");
