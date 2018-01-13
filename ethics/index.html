@@ -6,15 +6,15 @@
             crossorigin="anonymous"></script>
 </head>
 <body>
-    Hello
     <div id="result"></div>
     <script>
         var xmlString = '<?xml version="1.0"?><rss version="2.0"><channel><title>a3qz Ethics Blog</title><link>https://www.a3qz.me</link><description>Blog for CSE 40175</description><item><title>Sample 1</title><link>https://a3qz.github.io/ethics/sample.html</link><description>asdf</description></item></channel ></rss>';
         //var parser = new DOMParser();
         //var xmlDoc = parser.parseFromString(xmlString, "text/xml");
         //var node = xmlDoc.createElement("heyHo");
-        document.open("text/html", "replace");
+        document.open();
         document.write(xmlString);
+        document.close();
         /*var BASEURL = "https://a3qz.github.io/ethics/"
         $.get("https://a3qz.github.io/ethics/listing.txt", function (my_var) {
             console.log("Did it");
