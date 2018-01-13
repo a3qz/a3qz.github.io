@@ -9,10 +9,15 @@
     Hello
     <div id="result"></div>
     <script>
-        
+        var BASEURL = "https://a3qz.github.io/ethics/"
         $.get("https://a3qz.github.io/ethics/listing.txt", function (my_var) {
             console.log("Did it");
             console.log(my_var.split("\n"));
+            my_var.split("\n").forEach(function (element) {
+                $.get(BASEURL + element, function (res) {
+                    console.log(res);
+                })
+            });
         });
     </script>
 </body>
