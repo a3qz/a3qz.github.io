@@ -1,33 +1,6 @@
-
 <html>
-<head>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"
-            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-            crossorigin="anonymous"></script>
-</head>
-<body>
-    <div id="result"></div>
-    <script>
-        var xmlString = '<?xml version="1.0"?><rss version="2.0"><channel><title>a3qz Ethics Blog</title><link>https://www.a3qz.me</link><description>Blog for CSE 40175</description><item><title>Sample 1</title><link>https://a3qz.github.io/ethics/sample.html</link><description>asdf</description></item></channel ></rss>';
-        //var parser = new DOMParser();
-        //var xmlDoc = parser.parseFromString(xmlString, "text/xml");
-        //var node = xmlDoc.createElement("heyHo");
-        window.open('data:text/xml,' + encodeURIComponent(xmlString),
-            "Test", "width=300,height=300,scrollbars=1,resizable=1");
 
-        
-        /*var BASEURL = "https://a3qz.github.io/ethics/"
-        $.get("https://a3qz.github.io/ethics/listing.txt", function (my_var) {
-            console.log("Did it");
-            console.log(my_var.split("\n"));
-            my_var.split("\n").forEach(function (element) {
-                $.get(BASEURL + element, function (res) {
-                    console.log(res);
-                })
-            });
-        });*/
-    </script>
-</body>
-
+<body><a type="application/rss+xml" href="https://a3qz.github.io/ethics/rss.xml">
+    RSS feed for Ethics
+</a></body>
 </html>
-
