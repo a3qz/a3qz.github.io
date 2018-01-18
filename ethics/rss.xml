@@ -4,5 +4,18 @@
     <title>a3qz Ethics Blog</title>
     <link>https://a3qz.github.io</link>
     <description>Blog for CSE 40175</description>
+    <item>
+      <title>Reading 00: Question 2: Not just for Superheroes</title>
+    <link>https://a3qz.github.io/ethics/blogs/blog2.html</link>
+    <pubDate>Wed, 17 Jan 2018</pubDate>
+    </item>
+    <item>
+      <title>Reading 00: Question 1: About Me</title>
+    <link>https://a3qz.github.io/ethics/blogs/blog1.html</link>
+    <pubDate>Wed, 17 Jan 2018</pubDate>
+    </item>
+  <item>
+      
+    </item>
   </channel>
 </rss>
