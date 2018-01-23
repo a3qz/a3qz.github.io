@@ -1,6 +1,11 @@
 <?xml version="1.0"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
   <channel>
+    <language>en</language>
+    
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
     <title>a3qz Ethics Blog</title>
     <link>https://a3qz.github.io</link>
     <description>Blog for CSE 40175</description>
@@ -15,15 +20,18 @@
     <item>
       <title>Reading 00: Question 2: Not just for Superheroes</title>
     <link>https://a3qz.github.io/ethics/blogs/blog2.html</link>
+      <description>
+        In my opinion, programming is not a super power.  In fact, I would say that if it was considered to be one, that would lead to dangerous implications.
+      </description>
     <pubDate>Wed, 17 Jan 2018</pubDate>
     </item>
     <item>
       <title>Reading 00: Question 1: About Me</title>
     <link>https://a3qz.github.io/ethics/blogs/blog1.html</link>
     <pubDate>Wed, 17 Jan 2018</pubDate>
-    </item>
-  <item>
-      
+      <description>
+        My name is Ryan Michalec. I am from the city Lake Orion, Michigan, which is in the Metro Detroit area.
+      </description>
     </item>
   </channel>
 </rss>

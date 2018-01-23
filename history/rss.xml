@@ -1,6 +1,11 @@
 <?xml version="1.0"?>
-<rss version="2.0">
+<rss version="2.0"
+      xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
   <channel>
+    <language>en</language>
+
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
     <title>a3qz History of Computing Blog</title>
     <link>https://a3qz.github.io</link>
     <description>Blog for CSE 40850</description>
@@ -8,9 +13,9 @@
       <title>Reading 00: A Mutual Relationship</title>
     <link>https://a3qz.github.io/history/blogs/blog1.html</link>
     <pubDate>Fri, 19 Jan 2018</pubDate>
-    </item>
-  <item>
-      
+      <description>
+        Traditional board games and modern video games today have a relationship that is very back and forth.
+      </description>
     </item>
   </channel>
 </rss>
