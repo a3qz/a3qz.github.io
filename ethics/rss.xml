@@ -10,6 +10,14 @@
     <link>https://a3qz.github.io</link>
     <description>Blog for CSE 40175</description>
     <item>
+      <title>Project 1: Reflection </title>
+      <link>https://a3qz.github.io/ethics/blogs/blog5.html</link>
+      <pubDate>Sat, 3 Feb 2018 00:00:00 +0000</pubDate>
+      <description>
+        In summary, our code of ethics is broken up into five distinct categories.  These categories are: Responsibility, Honesty, Contribution to Community, Respect, and Doing the Right Thing.  
+      </description>
+    </item>
+    <item>
       <title>Reading 02:  ps -aux | grep interview | xargs kill -9</title>
       <link>https://a3qz.github.io/ethics/blogs/blog4.html</link>
       <pubDate>Sun, 28 Jan 2018 21:45:59 +0000</pubDate>
