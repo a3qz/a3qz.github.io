@@ -1,63 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0"
-      xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
   <channel>
     <language>en</language>
-
+    
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <title>a3qz History of Computing Blog</title>
     <link>https://a3qz.github.io</link>
     <description>Blog for CSE 40850</description>
-    <item>
-      <title>Reading 06: "Whoa! Nice Graphics, I'd like to get my hands on that game!"</title>
-      <link>https://a3qz.github.io/history/blogs/blog7.html</link>
-      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reading 05: "Fitness"</title>
-      <link>https://a3qz.github.io/history/blogs/blog6.html</link>
-      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reading 04: I know what I value</title>
-      <link>https://a3qz.github.io/history/blogs/blog5.html</link>
-      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      <description>
-        In my opinion, the answer to why would a video gamer choose one platform over another is all of the above.
-      </description>
-    </item>
-    <item>
-      <title>Reading 03: PC Gaming Master Race</title>
-      <link>https://a3qz.github.io/history/blogs/blog4.html</link>
-      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
-      <description>
-        The biggest differences, for me, about gaming on a personal computer vs a video console are the number of options.
-      </description>
-    </item>
-    <item>
-      <title>Reading 02: Beauty in Simplicity </title>
-      <link>https://a3qz.github.io/history/blogs/blog3.html</link>
-      <pubDate>Sat, 3 Feb 2018 00:00:00 +0000</pubDate>
-      <description>
-        In my opinion, the thing that makes the games of the golden age so memorable is definitely their simplicity.
-      </description>
-    </item>
-    <item>
-      <title>Reading 01: I still had fun</title>
-      <link>https://a3qz.github.io/history/blogs/blog2.html</link>
-      <pubDate>Sat, 27 Jan 2018 09:11:04 +0000</pubDate>
-      <description>
-        Early video gaming presented interesting challenges to developers in...
-      </description>
-    </item>
-    <item>
-      <title>Reading 00: A Mutual Relationship</title>
-    <link>https://a3qz.github.io/history/blogs/blog1.html</link>
-    <pubDate>Fri, 19 Jan 2018</pubDate>
-      <description>
-        Traditional board games and modern video games today have a relationship that is very back and forth.
-      </description>
-    </item>
-  </channel>
+<item><title>Reading 00: A Mutual Relationship</title><item><title>Reading 01: I still had fun</title><link>https://a3qz.github.io/history/blogs/blog2.html</link><pubDate>Sat, January 27, 2018</pubDate></item><item><title>Reading 02: Beauty in Simplicity </title><link>https://a3qz.github.io/history/blogs/blog3.html</link><pubDate>Sat, February 3, 2018</pubDate></item><item><title>Reading 03: PC Gaming Master Race</title><link>https://a3qz.github.io/history/blogs/blog4.html</link><pubDate>Sat, February 10, 2018</pubDate></item><item><title>Reading 04: I know what I value</title><link>https://a3qz.github.io/history/blogs/blog5.html</link><pubDate>Sat, February 24, 2018</pubDate></item><item><title>Reading 05: "Fitness"</title><link>https://a3qz.github.io/history/blogs/blog6.html</link><pubDate>Sat, February 24, 2018</pubDate></item><item><title>Reading 06: "Whoa! Nice Graphics, I'd like to get my hands on that game!"</title><link>https://a3qz.github.io/history/blogs/blog7.html</link><pubDate>Sat, March 21, 2018</pubDate></item><item><title>Reading 07: Freemium</title><link>https://a3qz.github.io/history/blogs/blog8.html</link><pubDate>Sat, April 7, 2018</pubDate></item></channel>
 </rss>
