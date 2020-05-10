@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87b4cb9e0e135d680f63e351148cb424",
+    "revision": "65d0c05511870a2955f41062b56faaa2",
     "url": "/zebragame/index.html"
   },
   {
-    "revision": "118e3931d78694524448",
+    "revision": "44d7ddf1c09820d0047d",
     "url": "/zebragame/static/css/main.ab60916a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zebragame/static/js/2.fe32ef40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "118e3931d78694524448",
-    "url": "/zebragame/static/js/main.cedd8a50.chunk.js"
+    "revision": "44d7ddf1c09820d0047d",
+    "url": "/zebragame/static/js/main.cb3bcddd.chunk.js"
   },
   {
     "revision": "86ad97158752bfeefc39",
