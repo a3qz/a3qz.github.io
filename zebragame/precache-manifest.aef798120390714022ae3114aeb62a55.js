@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65d0c05511870a2955f41062b56faaa2",
+    "revision": "d2d8de192a18a0fb97a272d796aca36f",
     "url": "/zebragame/index.html"
   },
   {
