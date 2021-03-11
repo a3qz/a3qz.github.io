@@ -3,50 +3,50 @@
 
 
 ### Old Fashioned
-* Whisky
+* Bourbon
 * Angostura Bitters
 * Ice Cube
-* Stir Drink
+* Orange Peel
 
 ### White Lady 
-* Lemon Juice
-* Triple Sec
-* Gin
-* Shake Drink
+* Vodka
+* Vermouth
+* Orange Peel
+* Coke
 
 ### Orange Jury
-* Orange Juice
+* Muddle Drink
 * Coke
-* Whisky
-* Vermouth
+* Gin
+* Triple Sec
 
 ### Vodka and Tonic 
-* Angostura Bitters
-* Gin 
+* Coke
+* Shake Drink 
 * Ice Cube
-* Lime Wedge 
+* Gin 
 
 ### Yummy Car
-* Simple Syrup 
+* Tequila 
 * Ice Cube
 * Lemon Juice 
 * Coke
 
 ### Double Personality
-* Lemon Juice
-* Tequila
-* Vermouth
-* Ice Cubes
+* Muddle Drink
+* Orange Peel
+* Vodka
+* Lime Juice
 
 ### Muted Grandfather
 * Coke
-* Egg Whites
-* Simple Syrup
-* Mint
+* Angostura Bitters
+* Orange Peel
+* Rum
 
-### Whiskey Sour
-* Simple Syrup
-* Lemon Juice 
-* Egg White
-* Whiskey
+### Whiskey Dour
+* Shake Drink
+* Bourbon 
+* Ice Cube
+* Lemon Juice
 
