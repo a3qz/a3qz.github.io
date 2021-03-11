@@ -8,6 +8,12 @@
 * Ice Cube
 * Orange Peel
 
+### Vodka and Tonic 
+* Coke
+* Shake Drink 
+* Ice Cube
+* Gin 
+
 ### White Lady 
 * Vodka
 * Vermouth
@@ -19,12 +25,6 @@
 * Coke
 * Gin
 * Triple Sec
-
-### Vodka and Tonic 
-* Coke
-* Shake Drink 
-* Ice Cube
-* Gin 
 
 ### Yummy Car
 * Tequila 
