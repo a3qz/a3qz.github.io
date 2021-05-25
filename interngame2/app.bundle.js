@@ -1835,7 +1835,7 @@ var PermissionsScene = /** @class */ (function (_super) {
     PermissionsScene.prototype.create = function () {
         var _this = this;
         var center = helpers_1.getGameCenter(this);
-        new scene_button_1.SceneButton(this, center.x, center.y, 'Enter', function () {
+        new scene_button_1.SceneButton(this, center.x, center.y, 'RC2', function () {
             console.log(whiteRushinHub_1.WhiteRushinHub.Instance.hubConnection.state);
             if (whiteRushinHub_1.WhiteRushinHub.Instance.hubConnection.state != signalr_1.HubConnectionState.Connected) {
                 _this.add.text(center.x, 50, "Not connected yet,\n try again in a few seconds").setOrigin(0.5);
