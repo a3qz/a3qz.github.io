@@ -2026,7 +2026,7 @@ var PourScene = /** @class */ (function (_super) {
                     var rotation_degrees = event.alpha;
                     var frontToBack_degrees = event.beta;
                     var leftToRight_degrees = event.gamma;
-                    _this.bottle.angle = rotation_degrees - 90;
+                    _this.bottle.angle = leftToRight_degrees - 90;
                 });
             });
         }
@@ -2038,7 +2038,7 @@ var PourScene = /** @class */ (function (_super) {
                 var rotation_degrees = event.alpha;
                 var frontToBack_degrees = event.beta;
                 var leftToRight_degrees = event.gamma;
-                _this.bottle.angle = rotation_degrees - 90;
+                _this.bottle.angle = leftToRight_degrees - 90;
             });
         }
     };
